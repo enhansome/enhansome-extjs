@@ -99,7 +99,7 @@
             "last_commit": "2011-10-14T20:24:08Z",
             "owner": "cadorn",
             "repo": "ace-extjs",
-            "stars": 123
+            "stars": 122
           }
         },
         {
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:01:58.917Z",
+    "last_updated": "2026-08-16T15:02:30.771Z",
     "original_repository": "abenhamdine/awesome-extjs",
     "original_repository_sha": "311188501268a3198d232c727e379a9b6f8cb23b",
     "enhanced_repository": "enhansome/enhansome-extjs",
