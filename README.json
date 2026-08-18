@@ -409,7 +409,7 @@
             "last_commit": "2022-04-21T20:52:34Z",
             "owner": "ramboxapp",
             "repo": "community-edition",
-            "stars": 6381
+            "stars": 6380
           }
         },
         {
@@ -512,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T15:11:22.080Z",
+    "last_updated": "2026-08-18T15:15:57.261Z",
     "original_repository": "abenhamdine/awesome-extjs",
     "original_repository_sha": "311188501268a3198d232c727e379a9b6f8cb23b",
     "enhanced_repository": "enhansome/enhansome-extjs",
