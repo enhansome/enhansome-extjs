@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,393 +10,398 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 453643055,
             "language": "JavaScript",
             "last_commit": "2022-04-03T19:18:28Z",
             "owner": "Stuart98",
             "repo": "ext-mail",
             "stars": 11
           }
-        },
-        {
-          "node_type": "item",
-          "title": "ExtDb - Sencha ExtJS tips, tricks, and recipes",
-          "description": "Various ExtJS notes, tools, utilities, and extensions",
-          "children": []
         }
       ],
       "title": "Tutorials, examples"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ExtDirect connector for Java",
+              "description": "Implementation of the Ext Direct protocol with Java and Spring.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4962178,
+                "language": "Java",
+                "last_commit": "2026-08-15T03:20:10Z",
+                "owner": "ralscha",
+                "repo": "extdirectspring",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Node.js Ext Direct",
+              "description": "A Node.js implementation of Ext Direct protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8547931,
+                "language": "JavaScript",
+                "last_commit": "2017-07-11T03:32:16Z",
+                "owner": "jurisv",
+                "repo": "nodejs.extdirect",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ext Direct PHP",
+              "description": "Ext Direct protocol for PHP.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 39446639,
+                "language": "PHP",
+                "last_commit": "2024-03-18T10:21:39Z",
+                "owner": "teqneers",
+                "repo": "ext-direct",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Direct connectors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ace editor integration",
+              "description": "An exemple of integration in ExtJS of ACE code editor.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1436966,
+                "language": "JavaScript",
+                "last_commit": "2011-10-14T20:24:08Z",
+                "owner": "cadorn",
+                "repo": "ace-extjs",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DateTimePicker",
+              "description": "An useful widget to pick date and time.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21990976,
+                "language": "JavaScript",
+                "last_commit": "2019-08-21T10:13:39Z",
+                "owner": "gportela85",
+                "repo": "DateTimeField",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Filebrowser component",
+              "description": "A useful filebrowser component.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732184,
+                "language": "JavaScript",
+                "last_commit": "2013-07-09T08:20:34Z",
+                "owner": "revolunet",
+                "repo": "Ext.ux.filebrowser",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pdf viewer panel",
+              "description": "A pdf viewer panel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5429454,
+                "language": "JavaScript",
+                "last_commit": "2014-09-27T21:35:09Z",
+                "owner": "SunboX",
+                "repo": "ext_ux_pdf_panel",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ext JS MVVM extensions",
+              "description": "Extensions for custom components with a ViewModel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42395325,
+                "language": "JavaScript",
+                "last_commit": "2017-05-30T06:46:24Z",
+                "owner": "alsolonets",
+                "repo": "extjs-mvvm-extensions",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ext.ux.button.DateRangePicker",
+              "description": "Component for selecting date range in ExtJS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45988841,
+                "language": "JavaScript",
+                "last_commit": "2019-10-10T07:24:34Z",
+                "owner": "wencywww",
+                "repo": "Ext.ux.button.DateRangePicker",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Exportable grid",
+              "description": "Wrapper over ExtJS's grid to make grid exportable to xslx format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51059267,
+                "language": null,
+                "last_commit": "2017-01-26T10:02:13Z",
+                "owner": "yorl1n",
+                "repo": "ext.ExportableGrid",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "extjs-carto",
+              "description": "Components to interact with Carto map tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66969413,
+                "language": "JavaScript",
+                "last_commit": "2018-05-10T09:38:19Z",
+                "owner": "CrestoneDigital",
+                "repo": "extjs-carto",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ExtJS-Grid-PDF-Exporter",
+              "description": "Sample application to export grid content in pdf.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57349330,
+                "language": "JavaScript",
+                "last_commit": "2020-05-24T20:05:27Z",
+                "owner": "shikhirsingh",
+                "repo": "ExtJS-Grid-PDF-Exporter",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ActionColumnRowEditing",
+              "description": "A plugin based on Ext.grid.plugin.RowEditing changing the default floating buttons to an action column.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86240776,
+                "language": "JavaScript",
+                "last_commit": "2021-09-13T17:03:09Z",
+                "owner": "maltempi",
+                "repo": "extjs-action-column-row-editing",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ActivityMonitor",
+              "description": "A class to track user activity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127419294,
+                "language": "JavaScript",
+                "last_commit": "2018-07-27T15:33:07Z",
+                "owner": "snapshift",
+                "repo": "ExtJS-ActivityMonitor",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ext.ux.grid.Printer",
+              "description": "An ExtJS 5/6/7 Component to print grid content.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75059322,
+                "language": "JavaScript",
+                "last_commit": "2022-04-25T14:36:59Z",
+                "owner": "snapshift",
+                "repo": "Ext.ux.grid.Printer",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ext.ux.ColorPicker",
+              "description": "A beautiful colorpicker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13865020,
+                "language": "CSS",
+                "last_commit": "2014-10-13T10:58:58Z",
+                "owner": "sw4",
+                "repo": "Ext.ux.ColorPicker",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DateSlider component for Sencha ExtJS",
+              "description": "A nice date slider.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9650953,
+                "language": "JavaScript",
+                "last_commit": "2013-04-24T15:27:31Z",
+                "owner": "OhmzTech",
+                "repo": "extjs-dateslider",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nvd3 bindings",
+              "description": "NVD3.js Bindings as Sencha ExtJS Package.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84053869,
+                "language": "JavaScript",
+                "last_commit": "2025-08-07T21:29:15Z",
+                "owner": "syslogic",
+                "repo": "extjs-nvd3-charts",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ext.ux.slider.Multi.Tips",
+              "description": "Override for the ExtJS multislider component to show persistent tips over the thumbs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92155046,
+                "language": "JavaScript",
+                "last_commit": "2017-09-27T15:43:31Z",
+                "owner": "wencywww",
+                "repo": "Ext.ux.slider.Multi.Tips",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wursta Tree Combobox",
+              "description": "Tree combo component",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195256232,
+                "language": "JavaScript",
+                "last_commit": "2019-08-08T13:19:37Z",
+                "owner": "wursta",
+                "repo": "extjs",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Components, ux"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ExtJS-Material-Icons",
+              "description": "Allow use of Material Design Iconic Font Icons in an ExtJS project. (Google icons + extended community icons).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 63000570,
+                "language": "JavaScript",
+                "last_commit": "2016-07-10T13:48:18Z",
+                "owner": "RichardStyles",
+                "repo": "ExtJS-Material-Icons",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ExtJS-Wheather-Icons",
+              "description": "ExtJS package to use Weather icons.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 62988565,
+                "language": "JavaScript",
+                "last_commit": "2016-07-10T08:05:16Z",
+                "owner": "RichardStyles",
+                "repo": "ExtJS-Weather-Icons",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Icons, Themes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Connector to Angular2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70428587,
+                "language": "TypeScript",
+                "last_commit": "2017-03-20T09:32:19Z",
+                "owner": "mgusmano",
+                "repo": "angular2-extjs",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Integration of ExtJS Components with other frameworks"
+        }
+      ],
       "title": "Extensions, components"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ExtDirect connector for Java",
-          "description": "Implementation of the Ext Direct protocol with Java and Spring.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-15T03:20:10Z",
-            "owner": "ralscha",
-            "repo": "extdirectspring",
-            "stars": 127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Node.js Ext Direct",
-          "description": "A Node.js implementation of Ext Direct protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-07-11T03:32:16Z",
-            "owner": "jurisv",
-            "repo": "nodejs.extdirect",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ext Direct PHP",
-          "description": "Ext Direct protocol for PHP.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2024-03-18T10:21:39Z",
-            "owner": "teqneers",
-            "repo": "ext-direct",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ext Direct ASP.NET",
-          "description": "Ext Direct protocol for ASP.NET.",
-          "children": []
-        }
-      ],
-      "title": "Direct connectors"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Ace editor integration",
-          "description": "An exemple of integration in ExtJS of ACE code editor.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2011-10-14T20:24:08Z",
-            "owner": "cadorn",
-            "repo": "ace-extjs",
-            "stars": 122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DateTimePicker",
-          "description": "An useful widget to pick date and time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-08-21T10:13:39Z",
-            "owner": "gportela85",
-            "repo": "DateTimeField",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Filebrowser component",
-          "description": "A useful filebrowser component.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2013-07-09T08:20:34Z",
-            "owner": "revolunet",
-            "repo": "Ext.ux.filebrowser",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pdf viewer panel",
-          "description": "A pdf viewer panel.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2014-09-27T21:35:09Z",
-            "owner": "SunboX",
-            "repo": "ext_ux_pdf_panel",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ext JS MVVM extensions",
-          "description": "Extensions for custom components with a ViewModel.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-05-30T06:46:24Z",
-            "owner": "alsolonets",
-            "repo": "extjs-mvvm-extensions",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ext.ux.button.DateRangePicker",
-          "description": "Component for selecting date range in ExtJS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-10-10T07:24:34Z",
-            "owner": "wencywww",
-            "repo": "Ext.ux.button.DateRangePicker",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Exportable grid",
-          "description": "Wrapper over ExtJS's grid to make grid exportable to xslx format.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-01-26T10:02:13Z",
-            "owner": "yorl1n",
-            "repo": "ext.ExportableGrid",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "extjs-carto",
-          "description": "Components to interact with Carto map tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-05-10T09:38:19Z",
-            "owner": "CrestoneDigital",
-            "repo": "extjs-carto",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ExtJS-Grid-PDF-Exporter",
-          "description": "Sample application to export grid content in pdf.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-05-24T20:05:27Z",
-            "owner": "shikhirsingh",
-            "repo": "ExtJS-Grid-PDF-Exporter",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ActionColumnRowEditing",
-          "description": "A plugin based on Ext.grid.plugin.RowEditing changing the default floating buttons to an action column.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-09-13T17:03:09Z",
-            "owner": "maltempi",
-            "repo": "extjs-action-column-row-editing",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ActivityMonitor",
-          "description": "A class to track user activity.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-07-27T15:33:07Z",
-            "owner": "snapshift",
-            "repo": "ExtJS-ActivityMonitor",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ext.ux.grid.Printer",
-          "description": "An ExtJS 5/6/7 Component to print grid content.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-04-25T14:36:59Z",
-            "owner": "snapshift",
-            "repo": "Ext.ux.grid.Printer",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ext.ux.ColorPicker",
-          "description": "A beautiful colorpicker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2014-10-13T10:58:58Z",
-            "owner": "sw4",
-            "repo": "Ext.ux.ColorPicker",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DateSlider component for Sencha ExtJS",
-          "description": "A nice date slider.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2013-04-24T15:27:31Z",
-            "owner": "OhmzTech",
-            "repo": "extjs-dateslider",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nvd3 bindings",
-          "description": "NVD3.js Bindings as Sencha ExtJS Package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-08-07T21:29:15Z",
-            "owner": "syslogic",
-            "repo": "extjs-nvd3-charts",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ext.ux.slider.Multi.Tips",
-          "description": "Override for the ExtJS multislider component to show persistent tips over the thumbs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-09-27T15:43:31Z",
-            "owner": "wencywww",
-            "repo": "Ext.ux.slider.Multi.Tips",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wursta Tree Combobox",
-          "description": "Tree combo component",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-08-08T13:19:37Z",
-            "owner": "wursta",
-            "repo": "extjs",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chartsly",
-          "description": "Stock Charts package based on Sencha ExtJS & Touch.",
-          "children": []
-        }
-      ],
-      "title": "Components, ux"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ExtJS-Material-Icons",
-          "description": "Allow use of Material Design Iconic Font Icons in an ExtJS project. (Google icons + extended community icons).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2016-07-10T13:48:18Z",
-            "owner": "RichardStyles",
-            "repo": "ExtJS-Material-Icons",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ExtJS-Wheather-Icons",
-          "description": "ExtJS package to use Weather icons.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2016-07-10T08:05:16Z",
-            "owner": "RichardStyles",
-            "repo": "ExtJS-Weather-Icons",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Icons, Themes"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Connector to Angular2",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2017-03-20T09:32:19Z",
-            "owner": "mgusmano",
-            "repo": "angular2-extjs",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ext Reactor",
-          "description": "Official Sencha integration with React.",
-          "children": []
-        }
-      ],
-      "title": "Integration of ExtJS Components with other frameworks"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -405,11 +410,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 56087776,
             "language": "JavaScript",
             "last_commit": "2022-04-21T20:52:34Z",
             "owner": "ramboxapp",
             "repo": "community-edition",
-            "stars": 6380
+            "stars": 6382
           }
         },
         {
@@ -419,6 +425,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34011884,
             "language": "JavaScript",
             "last_commit": "2025-01-31T08:53:06Z",
             "owner": "geoext",
@@ -433,6 +440,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80108636,
             "language": "JavaScript",
             "last_commit": "2022-08-09T16:43:58Z",
             "owner": "EtheaDev",
@@ -447,6 +455,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16211083,
             "language": "JavaScript",
             "last_commit": "2026-07-16T13:00:17Z",
             "owner": "SlateFoundation",
@@ -461,6 +470,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2466955,
             "language": "PHP",
             "last_commit": "2026-01-16T08:56:13Z",
             "owner": "koala-framework",
@@ -475,6 +485,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 14353912,
             "language": "Python",
             "last_commit": "2021-04-12T14:14:11Z",
             "owner": "lino-framework",
@@ -489,31 +500,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84419826,
             "language": "PHP",
             "last_commit": "2022-02-06T03:59:43Z",
             "owner": "dvelum",
             "repo": "dvelum",
             "stars": 22
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Arbela",
-          "description": "Rich, Extensible, Customizable, and Configurable IoT-ready Dashboard.",
-          "children": []
         }
       ],
       "title": "Open sources projects using ExtJS"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Commercial Software using ExtJS"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:15:57.261Z",
+    "last_updated": "2026-08-19T12:29:38.081Z",
     "original_repository": "abenhamdine/awesome-extjs",
+    "original_repository_id": 98202827,
     "original_repository_sha": "311188501268a3198d232c727e379a9b6f8cb23b",
     "enhanced_repository": "enhansome/enhansome-extjs",
     "enhanced_repository_description": null,
