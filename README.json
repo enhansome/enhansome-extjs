@@ -457,7 +457,7 @@
             "archived": false,
             "id": 16211083,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T14:46:39Z",
+            "last_commit": "2026-08-21T03:43:24Z",
             "owner": "SlateFoundation",
             "repo": "slate",
             "stars": 69
@@ -513,7 +513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:18:44.175Z",
+    "last_updated": "2026-08-21T15:17:31.111Z",
     "original_repository": "abenhamdine/awesome-extjs",
     "original_repository_id": 98202827,
     "original_repository_sha": "311188501268a3198d232c727e379a9b6f8cb23b",
