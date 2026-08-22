@@ -35,7 +35,7 @@
                 "archived": false,
                 "id": 4962178,
                 "language": "Java",
-                "last_commit": "2026-08-15T03:20:10Z",
+                "last_commit": "2026-08-22T03:51:33Z",
                 "owner": "ralscha",
                 "repo": "extdirectspring",
                 "stars": 127
@@ -513,7 +513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:17:31.111Z",
+    "last_updated": "2026-08-22T15:01:45.258Z",
     "original_repository": "abenhamdine/awesome-extjs",
     "original_repository_id": 98202827,
     "original_repository_sha": "311188501268a3198d232c727e379a9b6f8cb23b",
