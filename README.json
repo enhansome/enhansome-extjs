@@ -35,7 +35,7 @@
                 "archived": false,
                 "id": 4962178,
                 "language": "Java",
-                "last_commit": "2026-08-22T03:51:33Z",
+                "last_commit": "2026-08-24T02:42:43Z",
                 "owner": "ralscha",
                 "repo": "extdirectspring",
                 "stars": 127
@@ -342,6 +342,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "karma-extjs",
+              "description": "A tool to use karma to run unit tests on ExtJS applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19792545,
+                "language": "JavaScript",
+                "last_commit": "2017-06-23T07:24:23Z",
+                "owner": "Unit4",
+                "repo": "karma-extjs",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Test tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ExtJS-Material-Icons",
               "description": "Allow use of Material Design Iconic Font Icons in an ExtJS project. (Google icons + extended community icons).",
               "children": [],
@@ -374,6 +396,28 @@
           "description": null,
           "node_type": "group",
           "title": "Icons, Themes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "modern-locale",
+              "description": "A locale package for ExtJS modern toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106475316,
+                "language": "JavaScript",
+                "last_commit": "2024-08-07T17:49:49Z",
+                "owner": "wemersonjanuario",
+                "repo": "mvp-modern-locale",
+                "stars": 32
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Packages"
         },
         {
           "children": [
@@ -457,7 +501,7 @@
             "archived": false,
             "id": 16211083,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T11:25:20Z",
+            "last_commit": "2026-08-23T20:35:53Z",
             "owner": "SlateFoundation",
             "repo": "slate",
             "stars": 69
@@ -513,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:04:02.595Z",
+    "last_updated": "2026-08-24T14:42:38.623Z",
     "original_repository": "abenhamdine/awesome-extjs",
     "original_repository_id": 98202827,
     "original_repository_sha": "311188501268a3198d232c727e379a9b6f8cb23b",
