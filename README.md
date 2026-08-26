@@ -121,7 +121,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 * [Rambox](https://github.com/saenzramiro/rambox) ⚠️ Archived - Free and Open Source messaging and emailing app that combines common web applications into one.
 * [GeoExt](https://github.com/geoext/geoext3) ⭐ 142 | 🐛 32 | 🌐 JavaScript | 📅 2025-01-31 - A JavaScript framework that combines the GIS functionality of OpenLayers with all features of the ExtJS library.
 * [Kitto2](https://github.com/EtheaDev/kitto2) ⭐ 96 | 🐛 2 | 🌐 JavaScript | 📅 2022-08-09 - A tool to build web interfaces with ExtJS 6 and Delphi.
-* [Slate](https://github.com/SlateFoundation/slate) ⭐ 69 | 🐛 51 | 🌐 JavaScript | 📅 2026-08-25 - An open-source foundation for schools.
+* [Slate](https://github.com/SlateFoundation/slate) ⭐ 69 | 🐛 52 | 🌐 JavaScript | 📅 2026-08-26 - An open-source foundation for schools.
 * [Koala](https://github.com/koala-framework/koala-framework) ⭐ 63 | 🐛 47 | 🌐 PHP | 📅 2026-01-16 - Framework and CMS based on Zend Framework and ExtJS.
 * [Lino](https://github.com/lino-framework/lino) ⚠️ Archived - A web application framework using Django and ExtJS.
 * [DVelum](https://github.com/dvelum/dvelum) ⭐ 22 | 🐛 0 | 🌐 PHP | 📅 2022-02-06 - Professional PHP/ExtJS-based web development platform.
@@ -160,4 +160,4 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
