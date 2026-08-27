@@ -501,7 +501,7 @@
             "archived": false,
             "id": 16211083,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T15:59:16Z",
+            "last_commit": "2026-08-26T20:37:25Z",
             "owner": "SlateFoundation",
             "repo": "slate",
             "stars": 69
@@ -557,9 +557,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:06:22.177Z",
-    "original_repository": "abenhamdine/awesome-extjs",
-    "original_repository_id": 98202827,
+    "last_updated": "2026-08-27T11:35:56.163Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 98202827,
+      "language": null,
+      "last_commit": "2023-05-11T10:23:34Z",
+      "owner": "abenhamdine",
+      "repo": "awesome-extjs",
+      "stars": 105
+    },
     "original_repository_sha": "311188501268a3198d232c727e379a9b6f8cb23b",
     "enhanced_repository": "enhansome/enhansome-extjs",
     "enhanced_repository_description": null,
