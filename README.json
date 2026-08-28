@@ -16,7 +16,8 @@
             "owner": "Stuart98",
             "repo": "ext-mail",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:43:09.471Z"
         }
       ],
       "title": "Tutorials, examples"
@@ -39,7 +40,8 @@
                 "owner": "ralscha",
                 "repo": "extdirectspring",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -54,7 +56,8 @@
                 "owner": "jurisv",
                 "repo": "nodejs.extdirect",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -69,7 +72,8 @@
                 "owner": "teqneers",
                 "repo": "ext-direct",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             }
           ],
           "description": null,
@@ -91,7 +95,8 @@
                 "owner": "cadorn",
                 "repo": "ace-extjs",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -106,7 +111,8 @@
                 "owner": "gportela85",
                 "repo": "DateTimeField",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -121,7 +127,8 @@
                 "owner": "revolunet",
                 "repo": "Ext.ux.filebrowser",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -136,7 +143,8 @@
                 "owner": "SunboX",
                 "repo": "ext_ux_pdf_panel",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -151,7 +159,8 @@
                 "owner": "alsolonets",
                 "repo": "extjs-mvvm-extensions",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -166,7 +175,8 @@
                 "owner": "wencywww",
                 "repo": "Ext.ux.button.DateRangePicker",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -181,7 +191,8 @@
                 "owner": "yorl1n",
                 "repo": "ext.ExportableGrid",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -196,7 +207,8 @@
                 "owner": "CrestoneDigital",
                 "repo": "extjs-carto",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -211,7 +223,8 @@
                 "owner": "shikhirsingh",
                 "repo": "ExtJS-Grid-PDF-Exporter",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -226,7 +239,8 @@
                 "owner": "maltempi",
                 "repo": "extjs-action-column-row-editing",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -241,7 +255,8 @@
                 "owner": "snapshift",
                 "repo": "ExtJS-ActivityMonitor",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -256,7 +271,8 @@
                 "owner": "snapshift",
                 "repo": "Ext.ux.grid.Printer",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -271,7 +287,8 @@
                 "owner": "sw4",
                 "repo": "Ext.ux.ColorPicker",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -286,7 +303,8 @@
                 "owner": "OhmzTech",
                 "repo": "extjs-dateslider",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -301,7 +319,8 @@
                 "owner": "syslogic",
                 "repo": "extjs-nvd3-charts",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -316,7 +335,8 @@
                 "owner": "wencywww",
                 "repo": "Ext.ux.slider.Multi.Tips",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -331,7 +351,8 @@
                 "owner": "wursta",
                 "repo": "extjs",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             }
           ],
           "description": null,
@@ -353,7 +374,8 @@
                 "owner": "Unit4",
                 "repo": "karma-extjs",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             }
           ],
           "description": null,
@@ -375,7 +397,8 @@
                 "owner": "RichardStyles",
                 "repo": "ExtJS-Material-Icons",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             },
             {
               "node_type": "item",
@@ -390,7 +413,8 @@
                 "owner": "RichardStyles",
                 "repo": "ExtJS-Weather-Icons",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             }
           ],
           "description": null,
@@ -412,7 +436,8 @@
                 "owner": "wemersonjanuario",
                 "repo": "mvp-modern-locale",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             }
           ],
           "description": null,
@@ -434,7 +459,8 @@
                 "owner": "mgusmano",
                 "repo": "angular2-extjs",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:43:09.471Z"
             }
           ],
           "description": null,
@@ -460,7 +486,8 @@
             "owner": "ramboxapp",
             "repo": "community-edition",
             "stars": 6382
-          }
+          },
+          "first_seen": "2026-08-28T23:43:09.471Z"
         },
         {
           "node_type": "item",
@@ -475,7 +502,8 @@
             "owner": "geoext",
             "repo": "geoext",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T23:43:09.471Z"
         },
         {
           "node_type": "item",
@@ -490,7 +518,8 @@
             "owner": "EtheaDev",
             "repo": "kitto2",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T23:43:09.471Z"
         },
         {
           "node_type": "item",
@@ -505,7 +534,8 @@
             "owner": "SlateFoundation",
             "repo": "slate",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T23:43:09.471Z"
         },
         {
           "node_type": "item",
@@ -520,7 +550,8 @@
             "owner": "koala-framework",
             "repo": "koala-framework",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T23:43:09.471Z"
         },
         {
           "node_type": "item",
@@ -535,7 +566,8 @@
             "owner": "lino-framework",
             "repo": "lino",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T23:43:09.471Z"
         },
         {
           "node_type": "item",
@@ -550,14 +582,15 @@
             "owner": "dvelum",
             "repo": "dvelum",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:43:09.471Z"
         }
       ],
       "title": "Open sources projects using ExtJS"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:05:07.138Z",
+    "last_updated": "2026-08-28T23:43:09.471Z",
     "original_repository_info": {
       "archived": false,
       "id": 98202827,
