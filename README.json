@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ext Mail is a GMail clone example application built with the Ext JS framework to demonstrate how complex applications can be built with the framework. The app is a universal application making use of the Classic and Modern toolkits and building upon a base of shared business logic and data models.",
+            "homepage": "http://ext-mail.ashworthdigital.com",
             "id": 453643055,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2022-04-03T19:18:28Z",
+            "open_issues": 1,
             "owner": "Stuart98",
             "repo": "ext-mail",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "extjs",
+              "javascript",
+              "video-tutorial"
+            ]
           },
           "first_seen": "2026-08-28T23:43:09.471Z"
         }
@@ -34,12 +43,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of the Ext Direct protocol with Java and Spring",
+                "homepage": "https://github.com/ralscha/extdirectspring/wiki",
                 "id": 4962178,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T02:42:43Z",
+                "open_issues": 0,
                 "owner": "ralscha",
                 "repo": "extdirectspring",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "ext-direct",
+                  "extjs",
+                  "extjs6",
+                  "java",
+                  "spring"
+                ]
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -50,12 +70,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ext.Direct connector for node.js (npm module)",
+                "homepage": null,
                 "id": 8547931,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-07-11T03:32:16Z",
+                "open_issues": 5,
                 "owner": "jurisv",
                 "repo": "nodejs.extdirect",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -66,12 +91,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A base component to integrate Sencha Ext JS Ext.direct into a PHP application",
+                "homepage": null,
                 "id": 39446639,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-03-18T10:21:39Z",
+                "open_issues": 2,
                 "owner": "teqneers",
                 "repo": "ext-direct",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "ext-direct",
+                  "extjs",
+                  "php",
+                  "php-library",
+                  "sencha"
+                ]
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             }
@@ -89,12 +125,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ACE Editor for ExtJS",
+                "homepage": null,
                 "id": 1436966,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2011-10-14T20:24:08Z",
+                "open_issues": 6,
                 "owner": "cadorn",
                 "repo": "ace-extjs",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -105,12 +146,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A DateTime Field UX for 5.x and 6.x that is also compatible with Architect 3.x.",
+                "homepage": null,
                 "id": 21990976,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-08-21T10:13:39Z",
+                "open_issues": 0,
                 "owner": "gportela85",
                 "repo": "DateTimeField",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -121,12 +167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ExtJs FileBrowser",
+                "homepage": null,
                 "id": 732184,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2013-07-09T08:20:34Z",
+                "open_issues": 0,
                 "owner": "revolunet",
                 "repo": "Ext.ux.filebrowser",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -137,12 +188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PDF Viewer Panel for ExtJS 4.1 - No Browser Plugin required, pure JavaScript.",
+                "homepage": "https://market.sencha.com/users/118/extensions/153",
                 "id": 5429454,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2014-09-27T21:35:09Z",
+                "open_issues": 2,
                 "owner": "SunboX",
                 "repo": "ext_ux_pdf_panel",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -153,12 +209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ext JS MVVM extensions",
+                "homepage": null,
                 "id": 42395325,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-05-30T06:46:24Z",
+                "open_issues": 0,
                 "owner": "alsolonets",
                 "repo": "extjs-mvvm-extensions",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -169,12 +230,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Date Range Picker Button for ExtJS 4/5/6/7",
+                "homepage": null,
                 "id": 45988841,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-10-10T07:24:34Z",
+                "open_issues": 0,
                 "owner": "wencywww",
                 "repo": "Ext.ux.button.DateRangePicker",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "datepickers",
+                  "daterangepicker-component",
+                  "extjs",
+                  "picker",
+                  "sencha",
+                  "sencha-extjs"
+                ]
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -185,12 +258,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wrapper over ExtJs's grid to make grid exportable.",
+                "homepage": null,
                 "id": 51059267,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2017-01-26T10:02:13Z",
+                "open_issues": 3,
                 "owner": "yorl1n",
                 "repo": "ext.ExportableGrid",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -201,12 +279,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native components for ExtJS to interact with Carto map layers, data and visualizations.",
+                "homepage": null,
                 "id": 66969413,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-10T09:38:19Z",
+                "open_issues": 0,
                 "owner": "CrestoneDigital",
                 "repo": "extjs-carto",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "carto",
+                  "cartocss",
+                  "extjs"
+                ]
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -217,12 +304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample app which shows how to export a grid to PDF",
+                "homepage": null,
                 "id": 57349330,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-05-24T20:05:27Z",
+                "open_issues": 1,
                 "owner": "shikhirsingh",
                 "repo": "ExtJS-Grid-PDF-Exporter",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -233,12 +325,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ExtJS plugin based on Ext.grid.plugin.RowEditing changing the default floating buttons to an action column.",
+                "homepage": "https://maltempi.github.io/extjs-action-column-row-editing/demo/",
                 "id": 86240776,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-09-13T17:03:09Z",
+                "open_issues": 0,
                 "owner": "maltempi",
                 "repo": "extjs-action-column-row-editing",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "editable",
+                  "editable-grid",
+                  "extjs",
+                  "extjs-plugin",
+                  "grid",
+                  "javascript",
+                  "rowediting-changing"
+                ]
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -249,12 +354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Activity user tracking for ExtJS application",
+                "homepage": null,
                 "id": 127419294,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-07-27T15:33:07Z",
+                "open_issues": 0,
                 "owner": "snapshift",
                 "repo": "ExtJS-ActivityMonitor",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -265,12 +375,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Extjs 5/6/7 Component to print grid content",
+                "homepage": null,
                 "id": 75059322,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-04-25T14:36:59Z",
+                "open_issues": 7,
                 "owner": "snapshift",
                 "repo": "Ext.ux.grid.Printer",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "extjs",
+                  "extjs6",
+                  "extjs7"
+                ]
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -281,12 +400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ext JS 4.2x Color Picker Field",
+                "homepage": "http://sw4.github.io/Ext.ux.ColorPicker",
                 "id": 13865020,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2014-10-13T10:58:58Z",
+                "open_issues": 0,
                 "owner": "sw4",
                 "repo": "Ext.ux.ColorPicker",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -297,12 +421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DateSlider Component for Sencha ExtJS",
+                "homepage": null,
                 "id": 9650953,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-04-24T15:27:31Z",
+                "open_issues": 0,
                 "owner": "OhmzTech",
                 "repo": "extjs-dateslider",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -313,12 +442,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NVD3.js Bindings as ExtJS Package. A Live Demo is available @",
+                "homepage": "https://nvd3.syslogic.io",
                 "id": 84053869,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-08-07T21:29:15Z",
+                "open_issues": 0,
                 "owner": "syslogic",
                 "repo": "extjs-nvd3-charts",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "extjs-5",
+                  "nvd3"
+                ]
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -329,12 +466,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Overrides the Sencha ExtJS mulstislider component to show persistent tips over the thumbs",
+                "homepage": null,
                 "id": 92155046,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-09-27T15:43:31Z",
+                "open_issues": 0,
                 "owner": "wencywww",
                 "repo": "Ext.ux.slider.Multi.Tips",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -345,12 +487,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gadgets for ExtJS",
+                "homepage": null,
                 "id": 195256232,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-08-08T13:19:37Z",
+                "open_issues": 0,
                 "owner": "wursta",
                 "repo": "extjs",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "extjs",
+                  "extjs-over",
+                  "extjs-plugin",
+                  "sencha-extjs"
+                ]
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             }
@@ -368,12 +520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Karma to run tests for Ext JS applications",
+                "homepage": null,
                 "id": 19792545,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-06-23T07:24:23Z",
+                "open_issues": 1,
                 "owner": "Unit4",
                 "repo": "karma-extjs",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             }
@@ -391,12 +548,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Allow use of Material Design Iconic Font Icons in an ExtJS project. (Google icons + extended community icons)",
+                "homepage": null,
                 "id": 63000570,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-07-10T13:48:18Z",
+                "open_issues": 1,
                 "owner": "RichardStyles",
                 "repo": "ExtJS-Material-Icons",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             },
@@ -407,12 +569,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ExtJS package to use weather icons font (just like font awesome)",
+                "homepage": null,
                 "id": 62988565,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-07-10T08:05:16Z",
+                "open_issues": 0,
                 "owner": "RichardStyles",
                 "repo": "ExtJS-Weather-Icons",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             }
@@ -430,12 +597,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A locale package for Ext JS modern toolkit",
+                "homepage": null,
                 "id": 106475316,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-08-07T17:49:49Z",
+                "open_issues": 0,
                 "owner": "wemersonjanuario",
                 "repo": "mvp-modern-locale",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "extjs",
+                  "extjs-modern",
+                  "extjs6",
+                  "sencha",
+                  "sencha-extjs",
+                  "senchacmd"
+                ]
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             }
@@ -453,12 +632,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 70428587,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2017-03-20T09:32:19Z",
+                "open_issues": 2,
                 "owner": "mgusmano",
                 "repo": "angular2-extjs",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:09.471Z"
             }
@@ -480,12 +664,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Free and Open Source messaging and emailing app that combines common web applications into one.",
+            "homepage": "https://rambox.app",
             "id": 56087776,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-04-21T20:52:34Z",
+            "open_issues": 259,
             "owner": "ramboxapp",
             "repo": "community-edition",
-            "stars": 6382
+            "stars": 6382,
+            "topics": [
+              "custom-services",
+              "discord",
+              "email",
+              "facebook-workplace",
+              "gmail",
+              "hangouts",
+              "hipchat",
+              "icloud",
+              "inbox",
+              "linux",
+              "macos",
+              "messenger",
+              "microsoft-teams",
+              "outlook",
+              "skype",
+              "slack",
+              "telegram",
+              "tweetdeck",
+              "whatsapp",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T23:43:09.471Z"
         },
@@ -496,12 +706,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript framework that combines the GIS functionality of OpenLayers with all features of the ExtJS library",
+            "homepage": "http://geoext.github.io/geoext/",
             "id": 34011884,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-31T08:53:06Z",
+            "open_issues": 32,
             "owner": "geoext",
             "repo": "geoext",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "extjs",
+              "geoext",
+              "gis",
+              "hacktoberfest",
+              "openlayers",
+              "webmapping"
+            ]
           },
           "first_seen": "2026-08-28T23:43:09.471Z"
         },
@@ -512,12 +734,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Delphi framework for creating data-driven WEB SPA applications with ExtJS 6.x",
+            "homepage": "http://www.ethea.it/eng_kitto.htm",
             "id": 80108636,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-08-09T16:43:58Z",
+            "open_issues": 2,
             "owner": "EtheaDev",
             "repo": "kitto2",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "delphi",
+              "delphi-library",
+              "kitto"
+            ]
           },
           "first_seen": "2026-08-28T23:43:09.471Z"
         },
@@ -528,12 +759,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free and open online foundation for schools",
+            "homepage": "http://slatefoundation.github.io/slate/",
             "id": 16211083,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T20:37:25Z",
+            "open_issues": 50,
             "owner": "SlateFoundation",
             "repo": "slate",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:09.471Z"
         },
@@ -544,12 +780,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework and CMS based on Zend Framework and ExtJS",
+            "homepage": "http://www.koala-framework.org/",
             "id": 2466955,
             "language": "PHP",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-01-16T08:56:13Z",
+            "open_issues": 47,
             "owner": "koala-framework",
             "repo": "koala-framework",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "cms",
+              "extjs",
+              "koala-framework",
+              "php",
+              "zend-framework"
+            ]
           },
           "first_seen": "2026-08-28T23:43:09.471Z"
         },
@@ -560,12 +807,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A web application framework using Django and ExtJS",
+            "homepage": null,
             "id": 14353912,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2021-04-12T14:14:11Z",
+            "open_issues": 1,
             "owner": "lino-framework",
             "repo": "lino",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "database",
+              "django",
+              "django-rest-framework",
+              "extjs",
+              "reactjs",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-28T23:43:09.471Z"
         },
@@ -576,12 +835,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP/ExtJS-based web development platform",
+            "homepage": null,
             "id": 84419826,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-06T03:59:43Z",
+            "open_issues": 0,
             "owner": "dvelum",
             "repo": "dvelum",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:09.471Z"
         }
@@ -590,15 +854,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:43:09.471Z",
+    "last_updated": "2026-08-29T04:59:23.327Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of ExtJS resources.",
+      "homepage": null,
       "id": 98202827,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-05-11T10:23:34Z",
+      "open_issues": 15,
       "owner": "abenhamdine",
       "repo": "awesome-extjs",
-      "stars": 105
+      "stars": 105,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "extjs",
+        "sencha-extjs"
+      ]
     },
     "original_repository_sha": "311188501268a3198d232c727e379a9b6f8cb23b",
     "enhanced_repository": "enhansome/enhansome-extjs",
