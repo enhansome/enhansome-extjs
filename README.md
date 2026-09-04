@@ -64,7 +64,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ### Direct connectors
 
-* [ExtDirect connector for Java](https://github.com/ralscha/extdirectspring) ⭐ 127 | 🐛 0 | 🌐 Java | 📅 2026-08-30 - Implementation of the Ext Direct protocol with Java and Spring.
+* [ExtDirect connector for Java](https://github.com/ralscha/extdirectspring) ⭐ 127 | 🐛 0 | 🌐 Java | 📅 2026-09-04 - Implementation of the Ext Direct protocol with Java and Spring.
 * [Node.js Ext Direct](https://github.com/jurisv/nodejs.extdirect) ⭐ 41 | 🐛 5 | 🌐 JavaScript | 📅 2017-07-11 - A Node.js implementation of Ext Direct protocol.
 * [Ext Direct PHP](https://github.com/teqneers/ext-direct) ⚠️ Archived - Ext Direct protocol for PHP.
 * [Ext Direct ASP.NET](https://github.com/elishnevsky/ext-direct-mvc) - Ext Direct protocol for ASP.NET.
@@ -160,4 +160,4 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
