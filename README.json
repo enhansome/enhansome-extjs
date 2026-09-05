@@ -743,7 +743,7 @@
             "open_issues": 2,
             "owner": "EtheaDev",
             "repo": "kitto2",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "delphi",
               "delphi-library",
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:50:39.541Z",
+    "last_updated": "2026-09-05T16:57:51.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ExtJS resources.",
