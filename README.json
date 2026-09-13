@@ -48,7 +48,7 @@
                 "id": 4962178,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T17:42:18Z",
+                "last_commit": "2026-09-13T13:00:32Z",
                 "open_issues": 0,
                 "owner": "ralscha",
                 "repo": "extdirectspring",
@@ -715,7 +715,7 @@
             "open_issues": 32,
             "owner": "geoext",
             "repo": "geoext",
-            "stars": 142,
+            "stars": 141,
             "topics": [
               "extjs",
               "geoext",
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:27:24.203Z",
+    "last_updated": "2026-09-13T17:44:16.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ExtJS resources.",
