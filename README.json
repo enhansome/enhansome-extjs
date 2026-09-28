@@ -673,7 +673,7 @@
             "open_issues": 259,
             "owner": "ramboxapp",
             "repo": "community-edition",
-            "stars": 6379,
+            "stars": 6378,
             "topics": [
               "custom-services",
               "discord",
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:40:26.690Z",
+    "last_updated": "2026-09-28T20:51:12.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ExtJS resources.",
