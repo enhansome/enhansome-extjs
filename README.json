@@ -764,8 +764,8 @@
             "id": 16211083,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-26T20:37:25Z",
-            "open_issues": 50,
+            "last_commit": "2026-09-29T03:28:08Z",
+            "open_issues": 52,
             "owner": "SlateFoundation",
             "repo": "slate",
             "stars": 69,
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:51:12.220Z",
+    "last_updated": "2026-09-29T19:40:38.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ExtJS resources.",
