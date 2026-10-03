@@ -2,7 +2,7 @@
 
 A curated list of ExtJS resources.
 
-Contributions are welcomes. Add links through [pull requests](https://github.com/abenhamdine/awesome-extjs/pulls) ⭐ 105 | 🐛 15 | 📅 2023-05-11 or create an [issue](https://github.com/abenhamdine/awesome-extjs/issues) ⭐ 105 | 🐛 15 | 📅 2023-05-11 to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md)
+Contributions are welcomes. Add links through [pull requests](https://github.com/abenhamdine/awesome-extjs/pulls) or create an [issue](https://github.com/abenhamdine/awesome-extjs/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md)
 
 ## Contents
 
@@ -160,4 +160,4 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

@@ -628,7 +628,7 @@
             {
               "node_type": "item",
               "title": "Connector to Angular2",
-              "description": null,
+              "description": "mgusmano/angular2-extjs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:34:03.387Z",
+    "last_updated": "2026-10-03T04:44:01.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ExtJS resources.",
