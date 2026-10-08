@@ -673,7 +673,7 @@
             "open_issues": 259,
             "owner": "ramboxapp",
             "repo": "community-edition",
-            "stars": 6378,
+            "stars": 6379,
             "topics": [
               "custom-services",
               "discord",
@@ -743,7 +743,7 @@
             "open_issues": 2,
             "owner": "EtheaDev",
             "repo": "kitto2",
-            "stars": 97,
+            "stars": 98,
             "topics": [
               "delphi",
               "delphi-library",
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:13:06.239Z",
+    "last_updated": "2026-10-08T20:13:58.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ExtJS resources.",
