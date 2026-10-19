@@ -109,7 +109,7 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ### Packages
 
-* [modern-locale](https://github.com/wemersonjanuario/modern-locale) ⭐ 32 | 🐛 0 | 🌐 JavaScript | 📅 2024-08-07 - A locale package for ExtJS modern toolkit.
+* [modern-locale](https://github.com/wemersonjanuario/modern-locale) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2024-08-07 - A locale package for ExtJS modern toolkit.
 
 ### Integration of ExtJS Components with other frameworks
 
@@ -160,4 +160,4 @@ Contributions are welcomes. Add links through [pull requests](https://github.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
