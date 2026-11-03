@@ -673,7 +673,7 @@
             "open_issues": 259,
             "owner": "ramboxapp",
             "repo": "community-edition",
-            "stars": 6376,
+            "stars": 6377,
             "topics": [
               "custom-services",
               "discord",
@@ -733,7 +733,7 @@
           "description": "A tool to build web interfaces with ExtJS 6 and Delphi.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "A Delphi framework for creating data-driven WEB SPA applications with ExtJS 6.x",
             "homepage": "http://www.ethea.it/eng_kitto.htm",
             "id": 80108636,
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:54:39.375Z",
+    "last_updated": "2026-11-03T20:40:04.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ExtJS resources.",
