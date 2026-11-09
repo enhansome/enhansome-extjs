@@ -48,8 +48,8 @@
                 "id": 4962178,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T08:03:10Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-09T08:02:47Z",
+                "open_issues": 1,
                 "owner": "ralscha",
                 "repo": "extdirectspring",
                 "stars": 127,
@@ -673,7 +673,7 @@
             "open_issues": 259,
             "owner": "ramboxapp",
             "repo": "community-edition",
-            "stars": 6377,
+            "stars": 6376,
             "topics": [
               "custom-services",
               "discord",
@@ -765,7 +765,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-22T19:28:38Z",
-            "open_issues": 51,
+            "open_issues": 50,
             "owner": "SlateFoundation",
             "repo": "slate",
             "stars": 69,
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:12:01.052Z",
+    "last_updated": "2026-11-09T23:36:24.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ExtJS resources.",
