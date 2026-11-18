@@ -673,7 +673,7 @@
             "open_issues": 259,
             "owner": "ramboxapp",
             "repo": "community-edition",
-            "stars": 6377,
+            "stars": 6376,
             "topics": [
               "custom-services",
               "discord",
@@ -768,7 +768,7 @@
             "open_issues": 50,
             "owner": "SlateFoundation",
             "repo": "slate",
-            "stars": 69,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:09.471Z"
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:41:17.002Z",
+    "last_updated": "2026-11-18T22:23:11.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ExtJS resources.",
