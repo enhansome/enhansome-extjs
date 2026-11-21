@@ -48,8 +48,8 @@
                 "id": 4962178,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T08:02:50Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-21T20:19:01Z",
+                "open_issues": 0,
                 "owner": "ralscha",
                 "repo": "extdirectspring",
                 "stars": 127,
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:59:23.530Z",
+    "last_updated": "2026-11-21T20:40:35.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of ExtJS resources.",
